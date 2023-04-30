@@ -1,0 +1,5 @@
+india
+home.campaigns
+politics
+politics.politics-specials
+politics.news
